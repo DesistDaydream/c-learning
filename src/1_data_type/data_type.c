@@ -36,7 +36,5 @@ int typeString()
 int main()
 {
     typeString();
-    // 数组
-    // 结构体数组
     return 0;
 }
